@@ -8,7 +8,7 @@ on:
 
 defaults:
   run:
-    working-directory: /WebAppDotnetCore
+    working-directory: ./WebAppDotnetCore
 jobs:
   build:
 
